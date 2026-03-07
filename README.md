@@ -1,9 +1,9 @@
-# Hi there 👋 I'm Abdul Rehman
+<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
+<h3 align="center">Web Developer | Mobile App Developer</h3>
 
-💻 Web Developer & Mobile App Developer  
-🚀 Passionate about building scalable web and mobile applications  
-📱 Flutter & React Native Developer  
-🌱 Always learning new technologies and improving my skills  
+<p align="center">
+Passionate about building modern, scalable, and user-friendly applications.
+</p>
 
 ---
 
@@ -12,35 +12,60 @@
 - 🎓 Studying **Computer Science at UCP**
 - 📜 Certified **Web Developer from NexSkill**
 - 💼 Former **Mobile App Developer at Zentric Solutions**
-- 🔧 Skilled in **Web Development & Cross-Platform Mobile Apps**
-- 🎯 Goal: Build modern, scalable, and user-friendly applications
+- 📱 Skilled in **Flutter & React Native**
+- 🌱 Currently learning **Advanced Web Development**
+- 🎯 Goal: Build high quality web & mobile applications
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages & Tools**
+<p align="center">
 
-- HTML  
-- CSS  
-- JavaScript  
-- Flutter  
-- React Native  
-- Git & GitHub  
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter,react,git,github,vscode" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight" />
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 Upwork: (Add your Upwork profile link)
-- 📧 Email: nextwavedigital00@gmail.com
+<p align="center">
+
+<a href="https://www.upwork.com/freelancers/~0183d93555e671bdd7?mp_source=share">
+<img src="https://img.shields.io/badge/Upwork-Profile-green?style=for-the-badge&logo=upwork"/>
+</a>
+
+<a href="mailto:abdulrehmankhawaja2.5.8.9@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories and projects.*
+## ⭐ Support My Work
+
+If you like my projects, feel free to ⭐ my repositories and follow me on GitHub.
