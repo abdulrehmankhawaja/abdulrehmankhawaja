@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
+<img width="1584" height="396" alt="Black and White Minimalist SEO Specialist LinkedIn Background Photo" src="https://github.com/user-attachments/assets/0487eb3a-cc39-4ee7-b327-ec2137931b86" />
 <h3 align="center">Web Developer | Mobile App Developer</h3>
 
 <p align="center">
